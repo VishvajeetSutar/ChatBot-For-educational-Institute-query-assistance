@@ -1,0 +1,320 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hii",
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting DYPCET",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting DYPCET website",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "college",
+      "patterns": [
+        "College information",
+        "About college",
+        "college Details"
+      ],
+      "responses": [
+        "D.Y. Patil College of Engineering and Technology Kolhapur. Is an autonomous engineering institute in Kolhapur, Established in 1984 by Dr. D.Y Patil and Dr. Sanjay D. Patil."
+      ]
+    },
+    {
+      "tag": "vision",
+      "patterns": [
+        "What is the vision of college?",
+        "College vision",
+        "Vision of College"
+      ],
+      "responses": [
+        "Vision of our institute is 'To become a leading institute in producing high quality technical professionals for Nation Building.'"
+      ]
+    },
+    {
+      "tag": "features",
+      "patterns": [
+        "What are the Features of College?",
+        "Features",
+        "College Features"
+      ],
+      "responses": [
+        "Here are Few Features of college: WIFI enable campus, Excellent placement record, 10000+ worldwide alumni record, All Govt. Scholarships available to student, Bus facility available"
+      ]
+    },
+    {
+      "tag": "why",
+      "patterns": [
+        "Why this college?",
+        "Why DYPCET?",
+        "Why Choose dyp?",
+        "why dyp?"
+      ],
+      "responses": [
+        "Following are the reasons behind why you must choose DYPCET, Industry based curriculum under Autonomy, Highest placement record in the region, Soft skills training, 42 Gold Medals and 252 Ranks in Shivaji University Exam"
+      ]
+    },
+    {
+      "tag": "Programs",
+      "patterns": [
+        "Which Programs are available?",
+        "What are the Branches available?",
+        "list of Programs",
+        "list of branches",
+        "What programs are available?",
+        "how many departments are there?"
+      ],
+      "responses": [
+        "Following Under graduate Programs are offered by college: 1)Chemical Engineering 2)Civil Engineering 3)Computer Science and Engineering 4)CSE(Data Science) 5)CSE(Artificial Inteligence and Machine Learning) 6)Electronics and Telecommunication Engineering 7)Mechanical Engineering"
+      ]
+    },
+    {
+      "tag": "Exam",
+      "patterns": [
+        "Exam Pattern of this college?",
+        "Semester Pattern",
+        "Exams",
+        "Exam type"
+      ],
+      "responses": [
+        "Exam Patten is as Follows:  ISE1-10M, MSE-30M, ISE2-10M, ESE-50M"
+      ]
+    },
+    {
+      "tag": "Entrance_exam",
+      "patterns": [
+        "Exam required to take admission?",
+        "admission process",
+        "list of required exams",
+        "Exams",
+        "exams for admission",
+        "exam to take admission"
+
+      ],
+      "responses": [
+        "Exams required for admission : MHT-CET/JEE Main- B.E./ B.Arch and HSC 12th with 50+ (PCM)"
+      ]
+    },
+    {
+      "tag": "Documents",
+      "patterns": [
+        "Documents required for admission?",
+        "list of required Documents",
+        "Documents",
+        "Documents for admission"
+
+      ],
+      "responses": [
+        "Following Main documents are required for admission: 1.Domicile Certificate 2.MH-CET Score Card 3.School Leaving Certificate 4.SSC & HSC Marksheet"
+      ]
+    },
+    {
+      "tag": "clubs",
+      "patterns": [
+        "what are the clubs available",
+        "Student Clubs",
+        "Clubs"
+      ],
+      "responses": [
+        "Our campus offers a range of Student Clubs including 1)Coding Club 2)Creator Club 3)GDSC Club 4)Robotics Club 5)Cultural Club 6)Sports Club 7)R&D Club 8)MLSA Club"
+      ]
+    },
+    {
+      "tag": "faculty",
+      "patterns": [
+        "Faculty Information",
+        "qualification of faculty",
+        "Staff Details",
+        "staff Education",
+        "about faculty",
+        "Administration"
+      ],
+      "responses": [
+        "Our faculty members are highly qualified (PhD) and experienced in their respective fields. We also have dedicated staff members to support students."
+      ]
+    },
+    {
+      "tag": "Placements",
+      "patterns": [
+        "Placement Information",
+        "please give me the information about the placements of your college",
+        "Mentorship Opportunities",
+        "Job Opportunities",
+        "Placed students",
+        "How many Job offers"
+      ],
+      "responses": [
+        "100% placement Rate. 700+ Job Offers for 2023 Batch. For More info visit :https://coek.dypgroup.edu.in/training-placement/tpo-message/"
+      ]
+    },
+    {
+      "tag": "fees",
+      "patterns": [
+        "what is the fees",
+        "fees details",
+        "fee structure"
+      ],
+      "responses": [
+        "Fee Structure for Engineering: 1)OPEN:₹1,15,078 2)OBC/EBC/EWS/MARATHA:₹66,383  3)TFWS:₹17,687 4)SC/NT:₹3078 5)SBC/VJ/NT/DC:₹17,687 6)JK & GOI:₹27,078"
+      ]
+    },
+    {
+      "tag": "syllabus",
+      "patterns": [
+        "what is the syllabus",
+        "want syllabus pdf",
+        "Syllabus of Engineering"
+      ],
+      "responses": [
+        "For All Branches Syllabus Visit: https://coek.dypgroup.edu.in/academics/syllabus/"
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "Contact Information",
+        "How to Contact",
+        "Contact Us",
+        "contact number"
+      ],
+      "responses": [
+        "You can contact us via phone at 0231 260 1433 or email at  info.dypcet@dypgroup.edu.in."
+      ]
+    },
+    {
+      "tag": "cutoff",
+      "patterns": [
+        "what is the cutoff for admission?",
+        "what is the cet cutoff?",
+        "cet cutoff",
+        "cutoff to take admission",
+        "cutoff of all branches"
+      ],
+      "responses": [
+        "You can get 2023 Cutoff of all Branches at: https://fe2023.mahacet.org/CAP-I/CAPR-I_6250.pdf "
+      ]
+    },
+    {
+      "tag": "love",
+      "patterns": [
+        " i love you",
+        "i like you"
+      ],
+      "responses": [
+        "DYPCET loves you ! "
+      ]
+    },
+    {
+      "tag": "address",
+      "patterns": [
+        "address",
+        "address of the college",
+        "college location",
+        "where is the college is located",
+        "location",
+        "Location",
+        "Address"
+      ],
+      "responses": [
+        "College address: D.Y.Patil College Of Engineering technology kasaba bawada,Kolhapur, Location : https://maps.app.goo.gl/9mUNUswUj23nvfdK8 "
+
+      ]
+    },
+    {
+      "tag": "Autonomous",
+      "patterns": [
+        "is this college is autonomous",
+        "autonomous?",
+        "AICTE",
+        "Aicte ",
+        "NAAC Grade of college",
+        "NBA Grade of college"
+
+      ],
+      "responses":[
+        "Yes DYPCET is an autonomous institute accredited with A Grade by NAAC and accredited by NBA "
+      ]
+    },
+    {
+      "tag": "admission",
+      "patterns": [
+        "admission",
+        "Admission ",
+        "admission process",
+        "what is the admission process",
+        "admission enquiry",
+        "direct second year admission",
+        "first year admission"
+      ],
+      "responses": [
+        "by clicking on following link you will be redirected to admission enquiry page of DYPCET website : https://coek.dypgroup.edu.in/admissions/"
+      ]
+    },
+    {
+      "tag": "brochure",
+      "patterns": [
+        "Brochure",
+        "brochure",
+        "information brochure",
+        "pamphlet"
+      ],
+      "responses": [
+        " college information brochure : https://coek.dypgroup.edu.in/wp-content/uploads/2017/06/DYPCET-pamphlet-2023.pdf"
+      ]
+    },
+    {
+      "tag":"virtual tour",
+      "patterns":[
+        "college campus",
+        "campus",
+        "college images",
+        "Campus",
+        "college photos",
+        "photos",
+        "college photo",
+        "virtual tour"
+      ],
+      "responses": [
+        "Virtual tour of  college is available at :  https://coek.dypgroup.edu.in/Virtual_Tour/VirtualTour.html "
+      ]
+    },
+    {
+      "tag":"college code",
+      "patterns": [
+        "college code",
+        "cet code of college",
+        "code of the college",
+        "dte code",
+        "DTE code",
+        "institute code",
+        "Institute code"
+      ],
+      "responses": [
+        "DYPCET DTE code is : 6250"
+      ]
+    }
+  ]
+}
